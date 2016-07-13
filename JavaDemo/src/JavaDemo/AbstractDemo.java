@@ -7,7 +7,7 @@ package JavaDemo;
 
 /**
  *
- * @author Sagar
+ * @author Sagar kumar Mohanty
  */
 public class AbstractDemo {
     public static void main(String args[]){
